@@ -9,13 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@openrouter/ai-sdk-provider": "^2.2.3",
-    "ai": "^6.0.105",
     "lucide-react": "^0.554.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "colord": "^2.9.3",
-    "zod": "^4.3.6"
+    "colord": "^2.9.3"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
